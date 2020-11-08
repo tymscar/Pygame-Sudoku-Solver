@@ -1,0 +1,9 @@
+#How long should the AI wait between tries in milliseconds.
+#If set to 0 it will solve as fast as possible.
+#If set to 1000 it will wait 1 second for each move
+sleepTimeBetweenMoves = 0
+
+#Resolution
+#Width will be equal to height so only one of them has to be set
+#On a 1080 screen, around 700 is a good number
+resolution = 765
